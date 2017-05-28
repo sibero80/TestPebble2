@@ -1,0 +1,34 @@
+{
+    "author": "david.arango.gaviria@gmail.com",
+    "dependencies": {
+        "pebblejs": "^1.0.0"
+    },
+    "keywords": [],
+    "name": "testjs2",
+    "pebble": {
+        "displayName": "TestJS2",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/Logo",
+                    "name": "Logo",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "diorite"
+        ],
+        "uuid": "1927873a-1a33-404c-b2ae-42681dd8fe35",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
